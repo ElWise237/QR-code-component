@@ -28,8 +28,8 @@ Here you will find what i learnt throughout my first challenge from frontend-men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ElWise237/QR-code-component
+- Live Site URL: https://elwise237.github.io/QR-code-component/
 
 ## My process
 
